@@ -80,5 +80,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@SubHodH-K-N](https://{github.com/SubHodH-K-N})
-- Twitter [@realSubHodH](https://{twitter.com/realSubHodH})
+- GitHub [@SubHodH-K-N](https://github.com/SubHodH-K-N)
+- Twitter [@realSubHodH](https://twitter.com/realSubHodH)
