@@ -49,7 +49,7 @@ const Upload = () => {
   const handleUpload = async () => {
     setUploadClicked(true);
     let res = await axios.post(
-      "http://localhost:5001/images",
+      "https://gentle-island-09936.herokuapp.com/images",
       JSON.stringify({ image: previewUrl }),
       {
         headers: { "Content-Type": "application/json" },
